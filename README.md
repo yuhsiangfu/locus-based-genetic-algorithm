@@ -1,7 +1,7 @@
 # Locus-based-Genetic-Algorithm
 Apply locus-based genetic algorithm (LGA) to identify community structure of networks.
 
-## Locus Genetic Algorithm
+## Locus-based Genetic Algorithm
 In this code, the locus-based genetic algorithm is used to identify community stucture of network.<br />
 
 ## Evolutionary Results Visualization
